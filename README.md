@@ -13,7 +13,7 @@ This project is a Java-based chess game that runs in the console. It features a 
 ## Installation
 To install CLI Chess, follow these steps:
 1. Ensure you have Java OpenJDK 21 and Maven Installed on your system.
-2. Clone the repository: `git clone https://github.com/ndon01/CLI-Chess.git`
+2. Clone the repository: `git clone https://github.com/ndon01/CLIChess.git`
 3. Navigate to the cloned directory: `cd CLI-Chess`
 4. Compile the program using the following command:
 ```bash
