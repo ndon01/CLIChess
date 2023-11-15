@@ -1,0 +1,12 @@
+com\nicholasdonahue\CLIChess\util\Pieces\Rook.class
+com\nicholasdonahue\CLIChess\util\Pieces\Queen.class
+com\nicholasdonahue\CLIChess\util\Pieces\Pawn.class
+com\nicholasdonahue\CLIChess\util\Pieces\Square.class
+com\nicholasdonahue\CLIChess\util\Pieces\King.class
+com\nicholasdonahue\CLIChess\util\PrintableTable\PrintableTable.class
+com\nicholasdonahue\CLIChess\util\Game\Move.class
+com\nicholasdonahue\CLIChess\util\Pieces\Knight.class
+com\nicholasdonahue\CLIChess\util\Game\Game.class
+com\nicholasdonahue\CLIChess\CLIChessApplication.class
+com\nicholasdonahue\CLIChess\util\Pieces\Piece.class
+com\nicholasdonahue\CLIChess\util\Pieces\Bishop.class
