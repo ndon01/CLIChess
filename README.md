@@ -36,4 +36,5 @@ Here is a list of possible commands:
 | undo | undo | undoes the last move. | ✅             |                    |
 | undo [x] | undo 5 | undoes the last x number of moves. | ✅             |                    |
 | print status | print status | prints the current board. | ✅             |                    |
-| help | help | shows a list of all possible commands | ✅             | ✅                  |
+| help | help | shows a list of all possible commands. | ✅             | ✅                  |
+| exit | exit | exits the game. | ✅             | ✅                  |
